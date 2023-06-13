@@ -2,7 +2,7 @@
 
 Submitted by: **Abraham Syede**
 
-**Background Changer** is an app that... [TODO] 
+**Background Changer** is an app that changes the background 
 
 Time spent: **5** hours spent in total
 
