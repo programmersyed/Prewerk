@@ -21,7 +21,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-https://github.com/programmersyed/Prewerk/blob/main/Prewrok.gif
+<img src='https://github.com/programmersyed/Project4.kt/blob/main/Movie.gif' title='Next Up Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
